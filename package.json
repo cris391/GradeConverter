@@ -1,0 +1,15 @@
+{
+  "name": "grade-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "convert.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^3.2.0",
+    "karma": "^3.0.0"
+  }
+}
